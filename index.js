@@ -12,6 +12,10 @@ const about = require("./JSON/About.json");
 const portfolio = require("./JSON/Portfolio.json");
 
 
+app.get('/' ,( req, res) => {
+    res.send("Hola Funka")
+})
+
 app.get('/about' ,( req, res) => {
     res.json(about)
 })
