@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Proyecto 1",
+        "descripcion" : "Utilice HTML, CSS  y REACT para trabajar ETC.",
+        "image" : "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-creador-de-avatar-masculino.jpg",
+        "link" : "https://cv.mamr.com/"
+    },
+    {     
+        "name" : "Proyecto 1",
+        "descripcion" : "Utilice HTML, CSS  y REACT para trabajar ETC.",
+        "image" : "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-creador-de-avatar-masculino.jpg",
+        "link" : "https://cv.mamr.com/"
+    }
+]

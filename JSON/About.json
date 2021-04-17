@@ -1,0 +1,20 @@
+{
+"name" : "Miguel Angel Mansilla Revoux",
+"profession" : "Full Stack Developer",
+"photo" : "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-creador-de-avatar-masculino.jpg",
+"about_me" : "Soy entuciasta de la Tecnologia, disfruto mucho hacer desarrollo web y confio en el trabajo que hago",
+"skills":[
+    "JavaScript",
+    "NodeJS",
+    "ReactJS",
+    "Angular",
+    "HTML",
+    "CSS",
+    "MySql",
+    "MongoDB",
+    "JAVA",
+    "C#.NET",
+    "Python",
+    "Redux"
+]
+}
