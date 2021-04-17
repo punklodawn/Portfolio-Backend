@@ -1,4 +1,5 @@
-{
+[
+    {
 "name" : "Miguel Angel Mansilla Revoux",
 "profession" : "Full Stack Developer",
 "photo" : "https://i.ibb.co/m5Ryr8Y/cv.png",
@@ -18,3 +19,4 @@
     "Redux"
 ]
 }
+]
